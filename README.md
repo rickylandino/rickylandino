@@ -2,7 +2,7 @@
 
 Senior software engineer building internal developer platforms at Mastercard. Outside of work I build CRMs and custom platforms for businesses with Automated Concepts, run [WodWiz](https://www.wodwiz.com), and coach CrossFit (L2, 10+ years).
 
-I spend my days on developer portals, so here's how one would describe me: as a [Backstage](https://backstage.io) catalog entity.
+I spend my days on developer portals, so here's how one would describe me:
 
 ```yaml
 apiVersion: backstage.io/v1alpha1
