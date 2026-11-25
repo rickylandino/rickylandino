@@ -25,10 +25,6 @@ spec:
   memberOf: [automated-concepts, wodwiz, backstage-contributors]
 ```
 
-**Contributing to Backstage**
-- [#36835](https://github.com/backstage/backstage/pull/36835) catalog-import: migrate PreviewPullRequestComponent to Backstage UI (merged)
-- [#36925](https://github.com/backstage/backstage/pull/36925) catalog-react: analytics event for EntityKindPicker (approved, waiting on maintainers)
-
 **Building**
 - Automated Concepts: CRMs and custom platforms for businesses, built with a small team
 - [WodWiz](https://www.wodwiz.com): a training log and programming app for functional fitness gyms, on iOS, Android and web
